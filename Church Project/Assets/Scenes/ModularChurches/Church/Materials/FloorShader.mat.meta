@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7949b3443bcfa944fb5ebc9febb96ea6
+timeCreated: 1517603563
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/Church/Materials/FloorShader.mat
+  uploadId: 696079

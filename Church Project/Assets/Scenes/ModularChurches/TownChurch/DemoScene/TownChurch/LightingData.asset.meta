@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e2658678b5d6024cab0ce7c82b957bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/TownChurch/DemoScene/TownChurch/LightingData.asset
+  uploadId: 696079

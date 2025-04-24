@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b2015e7c8537e944980c2b8f652b4cb2
+timeCreated: 1517603563
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/Church/Materials/FrontStainedGlassSideShader.mat
+  uploadId: 696079

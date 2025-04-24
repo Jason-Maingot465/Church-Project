@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 13b2cc6952ca92944bcc5d8e7ff66338
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/TownChurch/Prefabs/InteriorWallDoor.prefab
+  uploadId: 696079

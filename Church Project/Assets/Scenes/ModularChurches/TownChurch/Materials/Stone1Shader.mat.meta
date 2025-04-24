@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f13312c76a41f5047be6dabeb871e2af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/TownChurch/Materials/Stone1Shader.mat
+  uploadId: 696079

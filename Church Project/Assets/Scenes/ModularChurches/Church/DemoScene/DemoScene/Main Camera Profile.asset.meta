@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b136266c6940424d869123d4256e0b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/Church/DemoScene/DemoScene/Main Camera
+    Profile.asset
+  uploadId: 696079

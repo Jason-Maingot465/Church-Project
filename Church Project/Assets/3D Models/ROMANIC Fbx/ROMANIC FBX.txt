@@ -1,0 +1,44 @@
+ROMANIC fbx by JIHS
+____________________________
+
+Generic romanesque church, designed by JIHS. Scale 1:1
+
+
+Exported from Sketchup 6.4.1 to FBX 6.1.0 format:
+
+
+SketchUp process:
+
+  596 groups
+   236289 faces
+   4 materials
+   4 textures
+
+Exported to FBX:
+
+   314542 faces
+   4 materials
+   4 textures
+
+_____________________
+
+Tested in 3dmax 2013:
+In this format the layers of Sketchup don´t be exported but the materials appear in the model correctly. You need to pick them in the "Material editor" if you want to edit them.
+
+With this correction the model is operative.
+
+Materials:
+4 jpg adapted in the native model (sketchup) and exported with it:
+
+TxRmnc_Metal: 512x512 pixels
+TxRmnc_Roof: 128x128
+TxRmnc_Stone: 756x756
+TxRmnc_Wood: 256x256
+
+Incluedes bitmaps for textures and HDRI image
+________________________
+
+If you have any problem  with this model that not appear in the specifications, please report to Turbosquid for a correction or devolution.
+Thank you for select this product.
+
+

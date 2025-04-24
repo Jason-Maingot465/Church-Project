@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00c86de1864bf5945aa0fcf87039ee64
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/TownChurch/Materials/WoodTrimShader.mat
+  uploadId: 696079

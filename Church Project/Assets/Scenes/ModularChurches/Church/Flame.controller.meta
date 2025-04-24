@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7562c5a4e2089f543b2c12d5b4e7911d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/Church/Flame.controller
+  uploadId: 696079

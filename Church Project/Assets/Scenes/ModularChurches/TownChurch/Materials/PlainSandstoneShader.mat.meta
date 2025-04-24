@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98fafdb7b0bd81a4f87b152c8971a8c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/TownChurch/Materials/PlainSandstoneShader.mat
+  uploadId: 696079

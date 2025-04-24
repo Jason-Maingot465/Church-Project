@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c4e564993090c1a409bf8b286aae150f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/Church/Prefabs/ChurchExteriorRear.prefab
+  uploadId: 696079

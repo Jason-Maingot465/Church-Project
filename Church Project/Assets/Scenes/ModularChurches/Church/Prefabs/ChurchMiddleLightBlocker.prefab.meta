@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 268a099670c51694cbb5cf12af6ccb3d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62736
+  packageName: Modular Medieval Churches With Interiors
+  packageVersion: 5.1
+  assetPath: Assets/Scenes/ModularChurches/Church/Prefabs/ChurchMiddleLightBlocker.prefab
+  uploadId: 696079
